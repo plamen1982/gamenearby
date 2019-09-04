@@ -1,5 +1,4 @@
-import firebase from 'firebase';
-import 'firebase/firestore'
+
 var firebaseConfig = {
     apiKey: "AIzaSyD6UUhwbjBO1o5Ny5epzxdLQItRZYW7PZk",
     authDomain: "ishotdogasandwich-test.firebaseapp.com",
@@ -11,5 +10,6 @@ var firebaseConfig = {
   };
   // Initialize Firebase
 export default firebaseConfig;
-
+ 
+export const facebookId = 2254914751417048;
   
